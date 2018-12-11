@@ -10,3 +10,14 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+
+#Env setting file
+*.env
+*.zip
+*.tar
+*.com
+*.org
+pkg
+.vscode
+
